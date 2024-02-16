@@ -1,0 +1,5 @@
+/Users/larck/Downloads/ToDo
+/Users/larck/Downloads/ToDo.dll
+/Users/larck/Downloads/ToDo.deps.json
+/Users/larck/Downloads/ToDo.runtimeconfig.json
+/Users/larck/Downloads/ToDo.pdb

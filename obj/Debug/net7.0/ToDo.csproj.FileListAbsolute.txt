@@ -1,0 +1,14 @@
+/Users/larck/Desktop/CS Projects/ConsoleApp Calculator/ToDo/bin/Debug/net7.0/ToDo
+/Users/larck/Desktop/CS Projects/ConsoleApp Calculator/ToDo/bin/Debug/net7.0/ToDo.deps.json
+/Users/larck/Desktop/CS Projects/ConsoleApp Calculator/ToDo/bin/Debug/net7.0/ToDo.runtimeconfig.json
+/Users/larck/Desktop/CS Projects/ConsoleApp Calculator/ToDo/bin/Debug/net7.0/ToDo.dll
+/Users/larck/Desktop/CS Projects/ConsoleApp Calculator/ToDo/bin/Debug/net7.0/ToDo.pdb
+/Users/larck/Desktop/CS Projects/ConsoleApp Calculator/ToDo/obj/Debug/net7.0/ToDo.GeneratedMSBuildEditorConfig.editorconfig
+/Users/larck/Desktop/CS Projects/ConsoleApp Calculator/ToDo/obj/Debug/net7.0/ToDo.AssemblyInfoInputs.cache
+/Users/larck/Desktop/CS Projects/ConsoleApp Calculator/ToDo/obj/Debug/net7.0/ToDo.AssemblyInfo.cs
+/Users/larck/Desktop/CS Projects/ConsoleApp Calculator/ToDo/obj/Debug/net7.0/ToDo.csproj.CoreCompileInputs.cache
+/Users/larck/Desktop/CS Projects/ConsoleApp Calculator/ToDo/obj/Debug/net7.0/ToDo.dll
+/Users/larck/Desktop/CS Projects/ConsoleApp Calculator/ToDo/obj/Debug/net7.0/refint/ToDo.dll
+/Users/larck/Desktop/CS Projects/ConsoleApp Calculator/ToDo/obj/Debug/net7.0/ToDo.pdb
+/Users/larck/Desktop/CS Projects/ConsoleApp Calculator/ToDo/obj/Debug/net7.0/ToDo.genruntimeconfig.cache
+/Users/larck/Desktop/CS Projects/ConsoleApp Calculator/ToDo/obj/Debug/net7.0/ref/ToDo.dll
