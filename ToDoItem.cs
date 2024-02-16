@@ -21,6 +21,4 @@ public class ToDoItem
         string marked = Marked ? "[x]" : "[ ]";
         return $"{marked} {Name}";
     }
-
-    
 }
